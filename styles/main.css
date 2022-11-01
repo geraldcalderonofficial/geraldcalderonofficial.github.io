@@ -1674,7 +1674,7 @@ textarea {
   margin: 15px 0;
   overflow: auto;
   font-size: 17px;
-  line-height: 28px;
+  line-height: 25px;
   font-weight: 900;
 }
 .graph-bar .graph-bar-label {
@@ -3642,6 +3642,7 @@ textarea {
 .portfolio-layout1 .portfolio-item {
   width: 33.3333%;
   position: relative;
+  padding: 3px;
 }
 .portfolio-layout1 .portfolio-item:hover .portfolio-detail {
   opacity: 1;
@@ -6507,3 +6508,4 @@ textarea {
     width: 20%;
   }
 }
+
