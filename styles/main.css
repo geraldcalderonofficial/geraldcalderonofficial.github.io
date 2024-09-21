@@ -1608,7 +1608,7 @@ textarea {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
-  text-align: center;
+  text-align: left;
 }
 .filter-list li a.active {
   border-color: #FFF;
